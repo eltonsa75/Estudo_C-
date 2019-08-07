@@ -6,14 +6,18 @@ namespace Estrutura_Condicional
     {
         static void Main(string[] args)
         {
-             int x = 10;
+          Console.WriteLine("Qual a hora atual?");
+          int hora = int.Parse(Console.ReadLine());
 
-            Console.WriteLine("Good Mornig");
-            if (x > 5) {
-            Console.WriteLine("Good Everning");
-        }
-
-         Console.WriteLine("Good Night");
+          if (hora < 12) {
+              Console.WriteLine("Bom dia!");
+          }
+          else if (hora < 18){
+              Console.WriteLine("Boa tarde!");
+          }
+          else {
+              Console.WriteLine("Boa noite!");
+          }
         }
     }
 }
