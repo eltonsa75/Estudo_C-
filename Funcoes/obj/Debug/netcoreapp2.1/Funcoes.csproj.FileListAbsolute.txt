@@ -1,0 +1,11 @@
+E:\Estudo_C-\Funcoes\bin\Debug\netcoreapp2.1\Funcoes.deps.json
+E:\Estudo_C-\Funcoes\bin\Debug\netcoreapp2.1\Funcoes.runtimeconfig.json
+E:\Estudo_C-\Funcoes\bin\Debug\netcoreapp2.1\Funcoes.runtimeconfig.dev.json
+E:\Estudo_C-\Funcoes\bin\Debug\netcoreapp2.1\Funcoes.dll
+E:\Estudo_C-\Funcoes\bin\Debug\netcoreapp2.1\Funcoes.pdb
+E:\Estudo_C-\Funcoes\obj\Debug\netcoreapp2.1\Funcoes.csprojAssemblyReference.cache
+E:\Estudo_C-\Funcoes\obj\Debug\netcoreapp2.1\Funcoes.csproj.CoreCompileInputs.cache
+E:\Estudo_C-\Funcoes\obj\Debug\netcoreapp2.1\Funcoes.AssemblyInfoInputs.cache
+E:\Estudo_C-\Funcoes\obj\Debug\netcoreapp2.1\Funcoes.AssemblyInfo.cs
+E:\Estudo_C-\Funcoes\obj\Debug\netcoreapp2.1\Funcoes.dll
+E:\Estudo_C-\Funcoes\obj\Debug\netcoreapp2.1\Funcoes.pdb
