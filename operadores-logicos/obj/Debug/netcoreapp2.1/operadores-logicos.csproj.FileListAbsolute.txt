@@ -1,0 +1,11 @@
+E:\Estudo_C-\operadores-logicos\bin\Debug\netcoreapp2.1\operadores-logicos.deps.json
+E:\Estudo_C-\operadores-logicos\bin\Debug\netcoreapp2.1\operadores-logicos.runtimeconfig.json
+E:\Estudo_C-\operadores-logicos\bin\Debug\netcoreapp2.1\operadores-logicos.runtimeconfig.dev.json
+e:\Estudo_C-\operadores-logicos\bin\Debug\netcoreapp2.1\operadores-logicos.dll
+e:\Estudo_C-\operadores-logicos\bin\Debug\netcoreapp2.1\operadores-logicos.pdb
+e:\Estudo_C-\operadores-logicos\obj\Debug\netcoreapp2.1\operadores-logicos.csprojAssemblyReference.cache
+e:\Estudo_C-\operadores-logicos\obj\Debug\netcoreapp2.1\operadores-logicos.csproj.CoreCompileInputs.cache
+e:\Estudo_C-\operadores-logicos\obj\Debug\netcoreapp2.1\operadores-logicos.AssemblyInfoInputs.cache
+e:\Estudo_C-\operadores-logicos\obj\Debug\netcoreapp2.1\operadores-logicos.AssemblyInfo.cs
+e:\Estudo_C-\operadores-logicos\obj\Debug\netcoreapp2.1\operadores-logicos.dll
+e:\Estudo_C-\operadores-logicos\obj\Debug\netcoreapp2.1\operadores-logicos.pdb
