@@ -1,0 +1,11 @@
+E:\Estudo_C-\EstrututraRepetitivaFor\bin\Debug\netcoreapp2.1\EstrututraRepetitivaFor.deps.json
+E:\Estudo_C-\EstrututraRepetitivaFor\bin\Debug\netcoreapp2.1\EstrututraRepetitivaFor.runtimeconfig.json
+E:\Estudo_C-\EstrututraRepetitivaFor\bin\Debug\netcoreapp2.1\EstrututraRepetitivaFor.runtimeconfig.dev.json
+E:\Estudo_C-\EstrututraRepetitivaFor\bin\Debug\netcoreapp2.1\EstrututraRepetitivaFor.dll
+E:\Estudo_C-\EstrututraRepetitivaFor\bin\Debug\netcoreapp2.1\EstrututraRepetitivaFor.pdb
+E:\Estudo_C-\EstrututraRepetitivaFor\obj\Debug\netcoreapp2.1\EstrututraRepetitivaFor.csprojAssemblyReference.cache
+E:\Estudo_C-\EstrututraRepetitivaFor\obj\Debug\netcoreapp2.1\EstrututraRepetitivaFor.csproj.CoreCompileInputs.cache
+E:\Estudo_C-\EstrututraRepetitivaFor\obj\Debug\netcoreapp2.1\EstrututraRepetitivaFor.AssemblyInfoInputs.cache
+E:\Estudo_C-\EstrututraRepetitivaFor\obj\Debug\netcoreapp2.1\EstrututraRepetitivaFor.AssemblyInfo.cs
+E:\Estudo_C-\EstrututraRepetitivaFor\obj\Debug\netcoreapp2.1\EstrututraRepetitivaFor.dll
+E:\Estudo_C-\EstrututraRepetitivaFor\obj\Debug\netcoreapp2.1\EstrututraRepetitivaFor.pdb
