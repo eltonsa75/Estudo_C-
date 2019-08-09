@@ -1,0 +1,11 @@
+E:\Estudo_C-\SemOrientacaoObjeto\bin\Debug\netcoreapp2.1\SemOrientacaoObjeto.deps.json
+E:\Estudo_C-\SemOrientacaoObjeto\bin\Debug\netcoreapp2.1\SemOrientacaoObjeto.runtimeconfig.json
+E:\Estudo_C-\SemOrientacaoObjeto\bin\Debug\netcoreapp2.1\SemOrientacaoObjeto.runtimeconfig.dev.json
+E:\Estudo_C-\SemOrientacaoObjeto\bin\Debug\netcoreapp2.1\SemOrientacaoObjeto.dll
+E:\Estudo_C-\SemOrientacaoObjeto\bin\Debug\netcoreapp2.1\SemOrientacaoObjeto.pdb
+E:\Estudo_C-\SemOrientacaoObjeto\obj\Debug\netcoreapp2.1\SemOrientacaoObjeto.csprojAssemblyReference.cache
+E:\Estudo_C-\SemOrientacaoObjeto\obj\Debug\netcoreapp2.1\SemOrientacaoObjeto.csproj.CoreCompileInputs.cache
+E:\Estudo_C-\SemOrientacaoObjeto\obj\Debug\netcoreapp2.1\SemOrientacaoObjeto.AssemblyInfoInputs.cache
+E:\Estudo_C-\SemOrientacaoObjeto\obj\Debug\netcoreapp2.1\SemOrientacaoObjeto.AssemblyInfo.cs
+E:\Estudo_C-\SemOrientacaoObjeto\obj\Debug\netcoreapp2.1\SemOrientacaoObjeto.dll
+E:\Estudo_C-\SemOrientacaoObjeto\obj\Debug\netcoreapp2.1\SemOrientacaoObjeto.pdb
