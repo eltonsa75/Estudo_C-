@@ -1,0 +1,11 @@
+E:\Estudo_C-\MembroEstaticoP2\bin\Debug\netcoreapp2.1\MembroEstaticoP2.deps.json
+E:\Estudo_C-\MembroEstaticoP2\bin\Debug\netcoreapp2.1\MembroEstaticoP2.runtimeconfig.json
+E:\Estudo_C-\MembroEstaticoP2\bin\Debug\netcoreapp2.1\MembroEstaticoP2.runtimeconfig.dev.json
+E:\Estudo_C-\MembroEstaticoP2\bin\Debug\netcoreapp2.1\MembroEstaticoP2.dll
+E:\Estudo_C-\MembroEstaticoP2\bin\Debug\netcoreapp2.1\MembroEstaticoP2.pdb
+E:\Estudo_C-\MembroEstaticoP2\obj\Debug\netcoreapp2.1\MembroEstaticoP2.csprojAssemblyReference.cache
+E:\Estudo_C-\MembroEstaticoP2\obj\Debug\netcoreapp2.1\MembroEstaticoP2.csproj.CoreCompileInputs.cache
+E:\Estudo_C-\MembroEstaticoP2\obj\Debug\netcoreapp2.1\MembroEstaticoP2.AssemblyInfoInputs.cache
+E:\Estudo_C-\MembroEstaticoP2\obj\Debug\netcoreapp2.1\MembroEstaticoP2.AssemblyInfo.cs
+E:\Estudo_C-\MembroEstaticoP2\obj\Debug\netcoreapp2.1\MembroEstaticoP2.dll
+E:\Estudo_C-\MembroEstaticoP2\obj\Debug\netcoreapp2.1\MembroEstaticoP2.pdb
