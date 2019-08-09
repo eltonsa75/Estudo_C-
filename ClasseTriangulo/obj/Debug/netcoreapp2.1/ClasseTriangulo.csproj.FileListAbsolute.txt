@@ -1,0 +1,11 @@
+E:\Estudo_C-\ClasseTriangulo\bin\Debug\netcoreapp2.1\ClasseTriangulo.deps.json
+E:\Estudo_C-\ClasseTriangulo\bin\Debug\netcoreapp2.1\ClasseTriangulo.runtimeconfig.json
+E:\Estudo_C-\ClasseTriangulo\bin\Debug\netcoreapp2.1\ClasseTriangulo.runtimeconfig.dev.json
+E:\Estudo_C-\ClasseTriangulo\bin\Debug\netcoreapp2.1\ClasseTriangulo.dll
+E:\Estudo_C-\ClasseTriangulo\bin\Debug\netcoreapp2.1\ClasseTriangulo.pdb
+E:\Estudo_C-\ClasseTriangulo\obj\Debug\netcoreapp2.1\ClasseTriangulo.csprojAssemblyReference.cache
+E:\Estudo_C-\ClasseTriangulo\obj\Debug\netcoreapp2.1\ClasseTriangulo.csproj.CoreCompileInputs.cache
+E:\Estudo_C-\ClasseTriangulo\obj\Debug\netcoreapp2.1\ClasseTriangulo.AssemblyInfoInputs.cache
+E:\Estudo_C-\ClasseTriangulo\obj\Debug\netcoreapp2.1\ClasseTriangulo.AssemblyInfo.cs
+E:\Estudo_C-\ClasseTriangulo\obj\Debug\netcoreapp2.1\ClasseTriangulo.dll
+E:\Estudo_C-\ClasseTriangulo\obj\Debug\netcoreapp2.1\ClasseTriangulo.pdb
