@@ -1,0 +1,11 @@
+E:\Estudo_C-\ExemploToString\bin\Debug\netcoreapp2.1\ExemploToString.deps.json
+E:\Estudo_C-\ExemploToString\bin\Debug\netcoreapp2.1\ExemploToString.runtimeconfig.json
+E:\Estudo_C-\ExemploToString\bin\Debug\netcoreapp2.1\ExemploToString.runtimeconfig.dev.json
+E:\Estudo_C-\ExemploToString\bin\Debug\netcoreapp2.1\ExemploToString.dll
+E:\Estudo_C-\ExemploToString\bin\Debug\netcoreapp2.1\ExemploToString.pdb
+E:\Estudo_C-\ExemploToString\obj\Debug\netcoreapp2.1\ExemploToString.csprojAssemblyReference.cache
+E:\Estudo_C-\ExemploToString\obj\Debug\netcoreapp2.1\ExemploToString.csproj.CoreCompileInputs.cache
+E:\Estudo_C-\ExemploToString\obj\Debug\netcoreapp2.1\ExemploToString.AssemblyInfoInputs.cache
+E:\Estudo_C-\ExemploToString\obj\Debug\netcoreapp2.1\ExemploToString.AssemblyInfo.cs
+E:\Estudo_C-\ExemploToString\obj\Debug\netcoreapp2.1\ExemploToString.dll
+E:\Estudo_C-\ExemploToString\obj\Debug\netcoreapp2.1\ExemploToString.pdb
