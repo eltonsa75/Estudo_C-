@@ -14,6 +14,12 @@ namespace Contrutores
             Quantidade = quantidade;
         }
 
+        public Produto (string nome, double preco) {
+            Nome = nome;
+            Preco = preco;
+            Quantidade = 5;
+        }
+
         // Method Preço * Valor
 
         public double ValorTotalEmEstoque(){
