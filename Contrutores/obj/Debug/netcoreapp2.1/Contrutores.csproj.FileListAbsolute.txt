@@ -1,0 +1,11 @@
+E:\Estudo_C-\Contrutores\bin\Debug\netcoreapp2.1\Contrutores.deps.json
+E:\Estudo_C-\Contrutores\bin\Debug\netcoreapp2.1\Contrutores.runtimeconfig.json
+E:\Estudo_C-\Contrutores\bin\Debug\netcoreapp2.1\Contrutores.runtimeconfig.dev.json
+E:\Estudo_C-\Contrutores\bin\Debug\netcoreapp2.1\Contrutores.dll
+E:\Estudo_C-\Contrutores\bin\Debug\netcoreapp2.1\Contrutores.pdb
+E:\Estudo_C-\Contrutores\obj\Debug\netcoreapp2.1\Contrutores.csprojAssemblyReference.cache
+E:\Estudo_C-\Contrutores\obj\Debug\netcoreapp2.1\Contrutores.csproj.CoreCompileInputs.cache
+E:\Estudo_C-\Contrutores\obj\Debug\netcoreapp2.1\Contrutores.AssemblyInfoInputs.cache
+E:\Estudo_C-\Contrutores\obj\Debug\netcoreapp2.1\Contrutores.AssemblyInfo.cs
+E:\Estudo_C-\Contrutores\obj\Debug\netcoreapp2.1\Contrutores.dll
+E:\Estudo_C-\Contrutores\obj\Debug\netcoreapp2.1\Contrutores.pdb
