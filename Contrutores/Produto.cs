@@ -26,8 +26,6 @@ namespace Contrutores
             }
              }
         }
-     
- 
 
         // Method Preço * Valor
 
